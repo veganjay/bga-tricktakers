@@ -23,7 +23,7 @@ ECK,beta,1
 Enemy Anemone,beta,2-6
 Euchre,beta,2-4
 Fai-fo,public,3-5
-Fibonachos,alpha,2-5
+Fibonachos,beta,2-5
 Five Three Five,beta,2-6
 French Tarot,public,3-5
 German Whist,beta,2
@@ -39,8 +39,8 @@ KQJ,public,6
 Klaverjassen,public,4
 Knockout Whist,beta,2-7
 Las Vegan,public,2-5
-Lunar,alpha,2 or 4
-Mate,alpha,2
+Lunar,beta,2 or 4
+Mate,beta,2
 Megalomania,public,2-4
 Mighty,beta,3-7
 Mü,beta,4-6
@@ -85,4 +85,6 @@ Vidrasso,beta,2
 Whist 22,public,2-7
 Wizard,public,3-6
 Yokai Septet,public,2-4
+blot,alpha,2-5
+powervacuum,alpha,1-5
 Écarté,beta,2
