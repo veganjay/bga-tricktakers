@@ -114,8 +114,8 @@ def write_to_csv(data: List[Tuple[str, str, str]], filename: str) -> None:
     Returns:
     None
     """
-    with open(filename, 'w', newline='') as csvfile:
-        csvwriter = csv.writer(csvfile)
+    with open(filename, 'w') as csvfile:
+        csvwriter = csv.writer(csvfile, lineterminator="\n")
         csvwriter.writerow(['Name', 'Status', 'Players'])
         csvwriter.writerows(sorted(data, key=lambda x: x[0]))
 
