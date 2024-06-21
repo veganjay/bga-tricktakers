@@ -7,6 +7,7 @@ Bacon,beta,3-6
 Barbu,public,3-5
 Belote,public,4
 Big Two,beta,2-4
+Blot,alpha,2-5
 Briscola,public,2-5
 Calypso,beta,4
 Caribbean All Fours,public,4
@@ -18,6 +19,7 @@ Coinche,public,4
 Coins,public,3
 Crisps,public,2
 Cucumber,beta,2-8
+Diamonds,alpha,2-6
 Dou Dizhu,beta,2-3
 ECK,beta,1
 Enemy Anemone,beta,2-6
@@ -53,10 +55,12 @@ Park Life,alpha,1-8
 Pedro,public,4
 Phat,public,4
 Pinochle,beta,2-4
+Power Vacuum,alpha,1-5
 President,public,2-8
 Qu4to,beta,2-5
 Quintus,beta,5
 Rage,public,3-8
+Sail,alpha,2
 Sasaki,beta,3-4
 Schnapsen,beta,2
 Sergeant Major,beta,3
@@ -85,6 +89,4 @@ Vidrasso,beta,2
 Whist 22,public,2-7
 Wizard,public,3-6
 Yokai Septet,public,2-4
-blot,alpha,2-5
-powervacuum,alpha,1-5
 Écarté,beta,2
