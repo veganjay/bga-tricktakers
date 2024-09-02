@@ -122,6 +122,7 @@ def write_to_csv(data: List[Tuple[str, str, str]], filename: str) -> None:
 
 
 def get_html_response():
+    print("Reading from website")
     # Load env variables
     load_dotenv()
 
@@ -146,8 +147,24 @@ def get_html_response():
     return html_content
 
 
+def get_cached_html_response(fp: argparse.FileType) -> str:
+    print("Reading from file")
+    return fp.read()
+
+
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-f', '--file', type=argparse.FileType('r'), help="Cached filename")
+    return parser.parse_args()
+
+
 def main():
-    html_content = get_html_response()
+    args = parse_args()
+
+    if args.file:
+        html_content = get_cached_html_response(args.file)
+    else:
+        html_content = get_html_response()
     
     # Step 2: Find the JavaScript <script> section
     soup = BeautifulSoup(html_content, 'html.parser')
