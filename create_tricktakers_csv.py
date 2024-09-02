@@ -175,11 +175,15 @@ def main():
     for script in scripts:
         if 'globalUserInfos' in script.text:
             # Use regular expression to extract the value of globalUsersInfo
-            match = re.search(r'globalUserInfos\s*=\s*({.*?});', script.text, re.DOTALL)
+            match = re.search(r'globalUserInfos\s*=\s*({.*?});\s*(?=\n|$)', script.text, re.DOTALL)
+
             if match:
                 global_users_info = match.group(1)
                 break
     
+    if global_users_info is None:
+        print("Parsing Error")
+        return
     global_users_info_dict = json.loads(global_users_info)
     
     # Process and write data to CSV
