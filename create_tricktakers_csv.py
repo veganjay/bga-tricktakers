@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import json
 import csv
 import re
@@ -120,7 +121,7 @@ def write_to_csv(data: List[Tuple[str, str, str]], filename: str) -> None:
         csvwriter.writerows(sorted(data, key=lambda x: x[0]))
 
 
-def main():
+def get_html_response():
     # Load env variables
     load_dotenv()
 
@@ -141,6 +142,12 @@ def main():
     
     response = requests.get(url, cookies=cookies)
     html_content = response.text
+
+    return html_content
+
+
+def main():
+    html_content = get_html_response()
     
     # Step 2: Find the JavaScript <script> section
     soup = BeautifulSoup(html_content, 'html.parser')
