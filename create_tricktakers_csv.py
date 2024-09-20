@@ -165,6 +165,8 @@ def main():
         html_content = get_cached_html_response(args.file)
     else:
         html_content = get_html_response()
+        with open('cache/cached-response.html', 'w') as fp:
+            fp.write(html_content)
     
     # Step 2: Find the JavaScript <script> section
     soup = BeautifulSoup(html_content, 'html.parser')
