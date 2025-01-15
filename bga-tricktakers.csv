@@ -1,6 +1,6 @@
 Name,Status,Players
 12 Chip Trick,public,2-4
-42,beta,3-4
+42,beta,4
 99 (trick-taking card game),public,3-4
 Agony Aunt,alpha,4
 Aurum,beta,3-4
@@ -26,7 +26,7 @@ Dickory,beta,2
 Dou Dizhu,public,2-3
 ECK,beta,1
 Enemy Anemone,beta,2-6
-Euchre,beta,2-4
+Euchre,public,2 or 4
 Fai-fo,public,3-5
 Fibonachos,beta,2-5
 Five Three Five,beta,2-6
@@ -62,7 +62,7 @@ Papayoo,public,3-8
 Park Life,beta,1-8
 Pedro,public,4
 Phat,public,4
-Pinochle,beta,2-4
+Pinochle,beta,2 or 4
 Power Vacuum,beta,1-5
 President,public,2-8
 Qu4to,beta,2-5
