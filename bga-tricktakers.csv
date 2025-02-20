@@ -1,6 +1,7 @@
 Name,Status,Players
 12 Chip Trick,public,2-4
 42,beta,4
+500,alpha,2 or 4 or 6
 99 (trick-taking card game),public,3-4
 Agony Aunt,alpha,4
 Aurum,beta,3-4
@@ -35,6 +36,7 @@ French Tarot,public,3-5
 German Whist,beta,2
 Greasy Spoon,beta,2
 Grosstarock,public,2-4
+HMS Dolores,alpha,2-4
 HUND,beta,2-5
 Haggis,public,2-4
 Hearts,public,3-8
@@ -99,6 +101,5 @@ Whist 22,public,2-7
 Wizard,public,3-6
 Wizard Extreme,alpha,3-5
 Yokai Septet,public,2-4
-fivehundred,alpha,2 or 4 or 6
-hmsdolores,alpha,2-4
+whist,alpha,2 or 4
 Écarté,beta,2
