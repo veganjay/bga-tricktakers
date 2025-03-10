@@ -1,7 +1,7 @@
 Name,Status,Players
 12 Chip Trick,public,2-4
 42,public,4
-500,alpha,2 or 4 or 6
+500,beta,2 or 4 or 6
 99 (trick-taking card game),public,3-4
 Agony Aunt,alpha,4
 Aurum,beta,3-4
@@ -15,7 +15,7 @@ Briscola,public,2-5
 Calypso,beta,4
 Caribbean All Fours,public,4
 Cat in the Box: Deluxe Edition,public,2-5
-Cheez-Tricks,beta,2-5
+Cheez-Tricks,public,2-5
 Chimera,alpha,3
 Claim,beta,2-4
 Coinche,public,4
@@ -23,10 +23,10 @@ Coins,public,3
 Crisps,public,2
 Cucumber,public,2-8
 Diamonds,beta,2-6
-Dickory,beta,2
+Dickory,public,2
 Dou Dizhu,public,2-3
 ECK,public,1
-Enemy Anemone,beta,2-6
+Enemy Anemone,public,2-6
 Euchre,public,2 or 4
 Fai-fo,public,3-5
 Fibonachos,public,2-5
@@ -34,7 +34,7 @@ Five Three Five,beta,2-6
 For Northwood!,beta,1
 French Tarot,public,3-5
 German Whist,public,2
-Greasy Spoon,beta,2
+Greasy Spoon,public,2
 Grosstarock,public,2-4
 HUND,beta,2-5
 Haggis,public,2-4
@@ -45,11 +45,11 @@ Hungarian Tarokk,public,4-6
 Inside Job,beta,3-5
 Jekyll vs. Hyde,public,2
 KQJ,public,6
-Kaiser,alpha,2 or 4
+Kaiser,beta,2 or 4
 Klaverjassen,public,4
 Knockout Whist,public,2-7
 Las Vegan,public,2-5
-Lepidoptery,beta,2
+Lepidoptery,public,2
 Lunar,beta,2 or 4
 Mate,public,2
 Megalomania,public,2-4
@@ -59,17 +59,17 @@ Nanatoridori,public,2-6
 Nap,public,2-10
 Oh Hell!,public,3-7
 Oh-Seven,public,2-9
-Onda,beta,2-5
+Onda,public,2-5
 Panda Rei,alpha,2-5
 Papayoo,public,3-8
-Park Life,beta,1-8
+Park Life,public,1-8
 Pedro,public,4
 Phat,public,4
 Pinochle,public,2 or 4
 Power Vacuum,beta,1-5
 President,public,2-8
-Propuh,alpha,1-2
-Qu4to,beta,2-5
+Propuh,beta,1-2
+Qu4to,public,2-5
 Quintus,beta,5
 Rage,public,3-8
 Sail,beta,2
@@ -83,7 +83,7 @@ Solo Whist,public,4
 Spades,public,4
 Sparts,public,4
 Spring Cleaning,beta,2-5
-Stonks,beta,2-5
+Stonks,public,2-5
 Taroinche,alpha,5
 The Crew,public,2-5
 The Crew: Mission Deep Sea,public,2-5
@@ -98,10 +98,10 @@ Trick of the Rails,public,3-5
 Twin Palms,public,2-5
 Two-Ten-Jack,public,2-8
 Vidrasso,public,2
-Whist,alpha,2 or 4
+Whist,beta,2 or 4
 Whist 22,public,2-7
 Wizard,public,3-6
 Wizard Extreme,alpha,3-5
 Yokai Septet,public,2-4
-thousand,alpha,2-3
+thousand,beta,2-4
 Écarté,public,2
