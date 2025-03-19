@@ -21,7 +21,7 @@ Chimera,alpha,3
 Claim,beta,2-4
 Coinche,public,4
 Coins,public,3
-Crisps,public,2
+Crisps!,public,2
 Cucumber,public,2-8
 Diamonds,beta,2-6
 Dickory,public,2
@@ -104,4 +104,6 @@ Whist 22,public,2-7
 Wizard,public,3-6
 Wizard Extreme,alpha,3-5
 Yokai Septet,public,2-4
+schafkopf,alpha,2-4
+schafkopftesting,alpha,2-4
 Écarté,public,2
