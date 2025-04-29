@@ -21,6 +21,7 @@ Chimera,alpha,3
 Claim,beta,2-4
 Coinche,public,4
 Coins,public,3
+Contract Bridge,alpha,1-2 or 4
 Cookie battle,alpha,3-6
 Crisps!,public,2
 Cucumber,public,2-8
@@ -29,7 +30,7 @@ Dickory,public,2
 Dou Dizhu,public,2-3
 ECK,public,1
 Enemy Anemone,public,2-6
-Euchre,public,2 or 4
+Euchre,public,1-2 or 4
 Fai-fo,public,3-5
 Fibonachos,public,2-5
 Five Three Five,beta,2-6
@@ -103,10 +104,9 @@ Trick of the Rails,public,3-5
 Twin Palms,public,2-5
 Two-Ten-Jack,public,2-8
 Vidrasso,public,2
-Whist,public,2 or 4
+Whist,public,1-2 or 4
 Whist 22,public,2-7
 Wizard,public,3-6
 Wizard Extreme,alpha,3-5
 Yokai Septet,public,2-4
-contractbridge,alpha,2 or 4
 Écarté,public,2
