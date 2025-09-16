@@ -35,7 +35,7 @@ Euchre,public,1-2 or 4
 Fai-fo,public,3-5
 Fibonachos,public,2-5
 Five Three Five,beta,2-6
-For Northwood!,beta,1
+For Northwood!,public,1
 French Tarot,public,3-5
 German Whist,public,2
 Greasy Spoon,public,2
@@ -55,6 +55,7 @@ Knockout Whist,public,2-7
 Las Vegan,public,2-5
 Lepidoptery,public,2
 Lunar,beta,2 or 4
+Malabares,alpha,2-4
 Mate,public,2
 Megalomania,public,2-4
 Mighty,public,3-7
@@ -65,8 +66,9 @@ Nap,public,2-10
 Napoleon:japanese style,alpha,4-5
 Oh Hell!,public,3-7
 Oh-Seven,public,2-9
+Olenon,alpha,4
 Onda,public,2-5
-Panda Rei,beta,2-5
+Panda Rei,public,2-5
 Panda Spin,public,2-5
 Papayoo,public,3-8
 Park Life,public,1-8
@@ -79,7 +81,7 @@ Propuh,public,1-2
 Qu4to,public,2-5
 Quintus,beta,5
 Rage,public,3-8
-Sail,beta,2
+Sail,public,2
 Sasaki,public,3-4
 Schafkopf,public,2-5
 Schnapsen,public,2
