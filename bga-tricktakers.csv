@@ -4,12 +4,14 @@ Name,Status,Players
 42,public,4
 500,public,2 or 4 or 6
 99 (trick taking game),public,3-4
+Agony Aunt,alpha,4
 Aurum,beta,3-4
 Bacon,public,3-6
 Barbu,public,3-5
 Belote,public,4
 Big Two,public,2-4
 Blot,beta,2-5
+Bouncers,alpha,3
 Briscola,public,2-5
 CATsle Builders,public,3-5
 Calypso,beta,4
@@ -24,6 +26,7 @@ Contract Bridge,public,1-2 or 4
 Cookie Battle,beta,3-6
 Crisps!,public,2
 Crits & Tricks,beta,2-4
+Cross Purposes,alpha,2
 Cry Baby,public,3-5
 Cucumber,public,2-8
 Diamonds,beta,2-6
@@ -107,7 +110,9 @@ Tiến Lên,public,2-4
 Toepen,public,2-8
 TriATri,beta,2-4
 Trick of the Rails,public,3-5
+Trick-n-Chef,beta,3-4
 Trickarus,beta,3-5
+Trickster Gods,alpha,3-4
 Tricky Kids,beta,2-6
 Twin Palms,public,2-5
 Two-Ten-Jack,public,2-8
@@ -115,5 +120,6 @@ Vidrasso,public,2
 Whist,public,1-2 or 4
 Whist 22,public,2-7
 Wizard,public,3-6
+Wizard Extreme,alpha,3-5
 Yokai Septet,public,2-4
 Écarté,public,2
